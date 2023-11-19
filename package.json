@@ -1,0 +1,16 @@
+{
+    "name": "aoc-2015",
+    "version": "1.0.0",
+    "description": "Advent of Code 2015",
+    "main": "index.ts",
+    "type": "module",
+    "scripts": {
+        "start": "tsx index.ts"
+    },
+    "author": "Rogerio Romao",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.9.2",
+        "tsx": "^4.1.4"
+    }
+}
